@@ -1,0 +1,17 @@
+@media screen and (max-width: 1015px) {
+    .offer__list-item {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+/*@media screen and (max-width: 2000px) { /*minha tela: 2560
+    .offer__list-item {
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    }
+}
+
+@media screen and (max-width: 2600px) { /*minha tela: 2560
+    .offer__list-item {
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    }
+}*/
